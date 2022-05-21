@@ -1,0 +1,10 @@
+project\main.o: main.c
+project\main.o: main.h
+project\main.o: stm32f030k6t6_specifics.h
+project\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+project\main.o: stm32f030k6t6_systick.h
+project\main.o: stm32f030k6t6_gpio.h
+project\main.o: stm32f030k6t6_spi.h
+project\main.o: stm32f030k6t6_usart.h
+project\main.o: RingBuffer.h
+project\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
